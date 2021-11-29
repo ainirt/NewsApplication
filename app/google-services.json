@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "846381342719",
+    "project_id": "ccnewsapp",
+    "storage_bucket": "ccnewsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:846381342719:android:a616622d635db57ee6d1ca",
+        "android_client_info": {
+          "package_name": "com.aini.newsapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "846381342719-meqfv65i1vrf38putc4ppqh2943f5e2e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCiOVNdhOKfpDN2xH6jIUxxMwxbdTFrg40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "846381342719-meqfv65i1vrf38putc4ppqh2943f5e2e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
